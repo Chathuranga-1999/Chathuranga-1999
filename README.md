@@ -13,7 +13,7 @@
 </a>
 
 
-[![@chathuranga's Holopin board](https://holopin.io/api/user/board?user=Chathuranga-1999)](https://holopin.io/@chathuranga)
+[![@chathuranga's Holopin board](https://holopin.me/chathuranga)](https://holopin.io/@chathuranga)
 
 
 
