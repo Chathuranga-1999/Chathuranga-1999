@@ -8,9 +8,13 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chathuranga-senarathne-ba8670210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chathuranga-senarathne-ba8670210" height="30" width="40" /></a>
 </p>
 
-<a href="mailto:chathu.redfox@gmail.com.com">
+<a href="mailto:chathu.redfox@gmail.com">
 <img src="https://img.shields.io/badge/-chathu.redfox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chathu.redfox@gmail.com" />
 </a>
+
+
+[![@chathuranga's Holopin board](https://holopin.io/api/user/board?user=Chathuranga-1999)](https://holopin.io/@chathuranga)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
